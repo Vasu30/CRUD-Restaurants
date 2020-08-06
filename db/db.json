@@ -1,0 +1,42 @@
+{
+  "restaurants": [
+    {
+      "name": "KFC",
+      "email": "kfc@gmail.com",
+      "address": "Mumbai",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Starbucks",
+      "address": "Ahmedabad",
+      "email": "starbucks@gmail.com"
+    },
+    {
+      "name": "La Pinoz",
+      "email": "lapinoz@gmail.com",
+      "address": "G.I.D.C",
+      "id": 3
+    },
+    {
+      "name": "Subway",
+      "email": "subway@gmail.com",
+      "address": "Ahmedabad",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "Krishil Gandhi",
+      "email": "test@test.com",
+      "password": "test",
+      "id": 1
+    },
+    {
+      "name": "Vasu",
+      "email": "sample@sample.com",
+      "password": "sample",
+      "id": 2
+    }
+  ]
+}
